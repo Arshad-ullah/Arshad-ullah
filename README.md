@@ -15,13 +15,9 @@
 
 - 🌱 I’m currently learning *Flutter (AI)*
 
-- 👯 I’m looking to collaborate on [Money Link](https://122.187.215.20/B2B_UATpayinapi/RPay/B2B)
+- 💬 Ask me about *Html, Css, Python, Java, Javascript, API , Postman, *
 
-- 👨‍💻 All of my projects are available at [y.google.com/store/apps/developer?id=Mudassir+habib](y.google.com/store/apps/developer?id=Mudassir+habib)
-
-- 💬 Ask me about *Html, Css, Python, Java, Javascript*
-
-- 📫 How to reach me *modassirhabib9@gmail.com*
+- 📫 How to reach me *jahan665577@gmail.com*
 
 - 📄 Know about my experiences [Flutter, Android, NodeJs](Flutter, Android, NodeJs)
 
