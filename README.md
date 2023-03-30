@@ -69,15 +69,8 @@
 
 *🧑‍🚀 Find Me:*
 
-[![Gmail](https://img.shields.io/badge/%E2%80%8D-Gmail-D14836?&logo=gmail)](mailto:modassirhabib9@gmail.com)
-[![Twitter](https://img.shields.io/badge/%E2%80%8D-Twitter-blue?&logo=twitter)](https://twitter.com/modassirhabib)
-[![Linkdlin](https://img.shields.io/badge/%E2%80%8D-Linkedin-blue?&logo=linkedin)](https://www.linkedin.com/in/https:/www.linkedin.com/in/mudassir-khan-19065a183/)
-[![Instagram](https://img.shields.io/badge/%E2%80%8D-Instagram-D14836?&logo=instagram)](https://instagram.com/https://www.instagram.com/modassir_ktk/)
-[![Facebook](https://img.shields.io/badge/%E2%80%8D-Facebook-0078D6?logo=facebook&logoColor=ffffff)](mailto:https://web.facebook.com/khan.khattak.77715)
-[![Telegram](https://img.shields.io/badge/%E2%80%8D-Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/metaspook)
-[![XDA-Developers](https://img.shields.io/badge/%E2%80%8D-XDA_Recognized_Developer-%23AC6E2F.svg?&logo=XDA-Developers)](https://forum.xda-developers.com/m/metaspook.6029298/#recent-content)
-[![Google Developers](https://img.shields.io/badge/%E2%80%8D-g.dev/metaspook-4285F4?logo=google&logoColor=white)](https://g.dev/metaspook)
-![Profile views](https://komarev.com/ghpvc/?style=flat&label=Views&username=metaspook)
+[![Gmail](https://img.shields.io/badge/%E2%80%8D-Gmail-D14836?&logo=gmail)](mailto:jahan665577@gmail.com)
+[![Linkdlin](https://img.shields.io/badge/%E2%80%8D-Linkedin-blue?&logo=linkedin)](https://www.linkedin.com/in/arshad-ullah-56356b20b/)
 
 
 ### Github Stats
